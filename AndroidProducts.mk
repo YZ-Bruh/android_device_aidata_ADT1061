@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ADT1061.mk
+    $(LOCAL_DIR)/twrp_ADT1061.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ADT1061-user \
-    omni_ADT1061-userdebug \
-    omni_ADT1061-eng
+    twrp_ADT1061-user \
+    twrp_ADT1061-userdebug \
+    twrp_ADT1061-eng
